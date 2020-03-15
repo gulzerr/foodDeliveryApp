@@ -5,6 +5,7 @@ void main() => runApp(
   MaterialApp(
     debugShowCheckedModeBanner: false,
     home: HomePage(),
+    title:"Bring me Food"
   )
 );
 
