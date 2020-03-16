@@ -1,5 +1,6 @@
 import 'Animation/FadeAnimation.dart';
 import 'package:flutter/material.dart';
+import 'package:passwordfield/passwordfield.dart';
 
 void main() => runApp(
   MaterialApp(
@@ -124,6 +125,7 @@ class HomePage extends StatelessWidget {
 	                              hintText: "Password",
 	                              hintStyle: TextStyle(color: Colors.grey[400])
 	                            ),
+															obscureText: true,
 	                          ),
 	                        )
 	                      ],
