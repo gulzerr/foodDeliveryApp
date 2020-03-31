@@ -1,16 +1,15 @@
-# bringmefood
+# Food Delivery App UI in  <img src='http://sovitpoudel.com.np/wp-content/uploads/2019/01/flutter.png' height='30' width='30' align='top'>
 
-A new Flutter application.
+In this project, I make this UI in flutter, and also added some functionalities like "Add to Cart" and "Drag to delete" using bloc pattern.
 
-## Getting Started
+Video for UI : [Making the Food Delivery App UI in Flutter](https://youtu.be/wWH66F9y63U)
+<br>
+Video for drag and drop in flutter : [Drag & Drop in Flutter](https://youtu.be/pKO54ttCV5I)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/app_gif.gif' align='left' width='25%'>
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/flutter_01.png' align='left' width='25%'>
+<img src='https://github.com/Ronak99/FoodDelivery-App-UI/blob/master/ss/food_delivery_second_screen.jpeg' align='left' width='25%'>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
